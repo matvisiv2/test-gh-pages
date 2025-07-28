@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/matvisiv2/test-gh-pages/static/js/main.ac4d562a.js",
-    "index.html": "/matvisiv2/test-gh-pages/index.html",
-    "main.ac4d562a.js.map": "/matvisiv2/test-gh-pages/static/js/main.ac4d562a.js.map"
+    "main.js": "/test-gh-pages/static/js/main.ac4d562a.js",
+    "index.html": "/test-gh-pages/index.html",
+    "main.ac4d562a.js.map": "/test-gh-pages/static/js/main.ac4d562a.js.map"
   },
   "entrypoints": [
     "static/js/main.ac4d562a.js"
